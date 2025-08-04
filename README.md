@@ -24,7 +24,9 @@ Welcome! This assessment is part of your internship technical evaluation for the
 
 ## ✅ Selected Problem Statement:
 
-_(Write the one you chose here clearly)_
+Create an agent that reads a short piece of user-submitted text and identifies the emotional
+tone behind it — such as positive, neutral, or negative. This could be useful for analyzing
+user feedback or social media content.
 
 ---
 
